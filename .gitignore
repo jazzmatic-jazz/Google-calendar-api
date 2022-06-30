@@ -1,0 +1,11 @@
+env/
+googcal/.env
+googcal/__pycache__/
+googcal/__init__.py
+app/migrations
+app/__init__.py
+db.sqlite3
+app/credentials.json
+app/client_secret.json
+app/__pycache__
+manage.py
